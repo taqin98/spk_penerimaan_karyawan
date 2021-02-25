@@ -1,0 +1,1 @@
+@keyframes wave{from{box-shadow:0 0 0 0 rgba(255,255,255,0)}to{box-shadow:0 0 0 8px rgba(255,255,255,.2)}}@-webkit-keyframes wave{from{box-shadow:0 0 0 0 rgba(255,255,255,0)}to{box-shadow:0 0 0 8px rgba(255,255,255,.2)}}.x-badge:empty{display:none}
